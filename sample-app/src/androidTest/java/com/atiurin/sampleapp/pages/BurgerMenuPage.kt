@@ -18,5 +18,7 @@ object BurgerMenuPage {
     fun getMenuItem(menuText: String): Matcher<View> {
         return selectMenuItemByText(menuText)
 
+        //comment
+
     }
 }
