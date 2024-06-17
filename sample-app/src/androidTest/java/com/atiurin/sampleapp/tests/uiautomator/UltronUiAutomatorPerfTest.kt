@@ -2,7 +2,6 @@ package com.atiurin.sampleapp.tests.uiautomator
 
 import android.os.SystemClock
 import com.atiurin.sampleapp.framework.Log
-import com.atiurin.sampleapp.pages.UiObject2ElementsPage
 import com.atiurin.sampleapp.tests.UiElementsTest
 import org.junit.Test
 

@@ -5,6 +5,7 @@ import androidx.test.espresso.matcher.ViewMatchers
 import androidx.test.espresso.matcher.ViewMatchers.withClassName
 import androidx.test.espresso.matcher.ViewMatchers.withId
 import androidx.test.espresso.matcher.ViewMatchers.withParent
+import androidx.test.espresso.matcher.ViewMatchers.withText
 import com.atiurin.sampleapp.R
 import org.hamcrest.CoreMatchers.endsWith
 import org.hamcrest.Matcher
@@ -25,4 +26,8 @@ object DashboardPage {
         withParent(withId(R.id.toolbar)),
         withClassName(endsWith("ImageButton"))
     )}
+
+    fun profileWithName(friendName: String): Matcher<View> {
+        return Matchers.allOf(withId(R.id.tv_name), withText(friendName))
+    }
 }

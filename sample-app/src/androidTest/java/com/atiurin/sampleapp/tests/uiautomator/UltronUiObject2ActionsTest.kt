@@ -10,7 +10,6 @@ import com.atiurin.sampleapp.framework.Log
 import com.atiurin.sampleapp.framework.ultronext.appendText
 import com.atiurin.sampleapp.framework.utils.AssertUtils
 import com.atiurin.sampleapp.framework.utils.TestDataUtils
-import com.atiurin.sampleapp.pages.UiObject2ElementsPage
 import com.atiurin.sampleapp.tests.UiElementsTest
 import com.atiurin.ultron.core.uiautomator.uiobject2.UltronUiObject2.Companion.bySelector
 import com.atiurin.ultron.utils.getTargetString

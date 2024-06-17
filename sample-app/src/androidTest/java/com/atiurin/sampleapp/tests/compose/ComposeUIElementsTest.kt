@@ -16,7 +16,6 @@ import com.atiurin.sampleapp.compose.RegionName
 import com.atiurin.sampleapp.framework.ultronext.assertProgress
 import com.atiurin.sampleapp.framework.ultronext.hasProgress
 import com.atiurin.sampleapp.framework.utils.AssertUtils
-import com.atiurin.sampleapp.pages.ComposeElementsPage
 import com.atiurin.ultron.core.common.options.ClickOption
 import com.atiurin.ultron.core.common.options.ContentDescriptionContainsOption
 import com.atiurin.ultron.core.common.options.TextContainsOption
