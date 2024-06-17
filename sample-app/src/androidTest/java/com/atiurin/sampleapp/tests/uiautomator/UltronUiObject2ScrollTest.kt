@@ -2,7 +2,6 @@ package com.atiurin.sampleapp.tests.uiautomator
 
 import androidx.test.rule.ActivityTestRule
 import com.atiurin.sampleapp.activity.MainActivity
-import com.atiurin.sampleapp.pages.UiObject2FriendsListPage
 import com.atiurin.sampleapp.tests.BaseTest
 import com.atiurin.ultron.core.config.UltronConfig
 import org.junit.BeforeClass

@@ -1,9 +1,7 @@
 package com.atiurin.sampleapp.tests.uiautomator
 
 import com.atiurin.sampleapp.R
-import com.atiurin.sampleapp.framework.Log
 import com.atiurin.sampleapp.framework.utils.AssertUtils
-import com.atiurin.sampleapp.pages.UiObject2ElementsPage
 import com.atiurin.sampleapp.tests.UiElementsTest
 import com.atiurin.ultron.utils.getTargetString
 import org.hamcrest.Matchers.containsString

@@ -2,7 +2,6 @@ package com.atiurin.sampleapp.tests.compose
 
 import com.atiurin.sampleapp.activity.ComposeElementsActivity
 import com.atiurin.sampleapp.framework.utils.AssertUtils
-import com.atiurin.sampleapp.pages.ComposeElementsPage
 import com.atiurin.ultron.core.compose.createUltronComposeRule
 import com.atiurin.ultron.core.compose.operation.ComposeOperationResult
 import com.atiurin.ultron.core.compose.operation.ComposeOperationType

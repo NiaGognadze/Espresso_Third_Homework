@@ -2,7 +2,6 @@ package com.atiurin.sampleapp.tests.uiautomator
 
 import com.atiurin.sampleapp.R
 import com.atiurin.sampleapp.framework.utils.AssertUtils
-import com.atiurin.sampleapp.pages.UiObjectElementsPage
 import com.atiurin.sampleapp.tests.UiElementsTest
 import com.atiurin.ultron.utils.getTargetString
 import org.hamcrest.Matchers.*
